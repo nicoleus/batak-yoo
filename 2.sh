@@ -9,7 +9,7 @@ pu='\033[37;1m' #PUTIH
 ku='\033[33;1m' #KUNING
 echo
 echo $i""
-python2 ketik.py
+python2 ketik1.py
 echo
 sleep 6
 clear
