@@ -111,7 +111,7 @@ echo $cy"⟨"$pu"14"$cy"⟩"$bi"-» Youtube-dl"
 echo $cy"⟨"$pu"15"$cy"⟩"$bi"-» Visualizer"
 echo $cy"⟨"$pu"16"$cy"⟩"$bi"-» Keluar"
 echo
-echo $pu"╭─["$i"Pilih sesuai ke inginan Anda"$pu"]"
+echo $pu"╭─["$i"Pilih Sesuai Keinginan Lae Dah!!"$pu"]"
 read -p"╰─> : " pil
 
 if [ $pil = 1 ]
